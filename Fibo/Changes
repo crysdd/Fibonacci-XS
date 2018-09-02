@@ -1,0 +1,6 @@
+Revision history for Perl extension Fibo.
+
+0.01  Sun Sep  2 05:34:27 2018
+	- original version; created by h2xs 1.23 with options
+		-b 5.8.9 -A -n Fibo --use-xsloader --skip-ppport
+
